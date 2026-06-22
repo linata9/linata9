@@ -11,16 +11,3 @@ Hi Linata here<br><br>A minimalist builder and researcher shaping elegant soluti
 ![](https://github-readme-stats.shion.dev/api?username=linata9&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=linata9&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=linata9&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-⚙️ github metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=linata&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a9a9a9&icon_color=ffffff" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linata&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a9a9a9" height="150" alt="languages" />
-</p>
-
----
-
-<p align="center">
-  <i>let's build something beautiful.</i>
-</p>
