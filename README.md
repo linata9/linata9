@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔗About Me:
 Hi Linata here<br><br>A minimalist builder and researcher shaping elegant solutions at the intersection of Artificial Intelligence and Data Analytics. <br>I focus on creating seamless, high-efficiency tools that eliminate friction and bring clarity to complex workflows.<br><br>📂 current focus<br>  ⚡ Building: A smart AI tool engineered to optimize the command process—delivering precise, desired outputs in a single go.<br>   📈 Analyzing: Deep-diving into the analytics landscape to extract meaningful patterns and elevate system performance.<br>   🌱 Exploring: Looking for that next captivating, high-impact research topic to obsess over.
 
 
